@@ -1,0 +1,15 @@
+/Users/ilgamnafikov/CLabs/Test/obj/Debug/net5.0/Test.csproj.AssemblyReference.cache
+/Users/ilgamnafikov/CLabs/Test/obj/Debug/net5.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilgamnafikov/CLabs/Test/obj/Debug/net5.0/Test.AssemblyInfoInputs.cache
+/Users/ilgamnafikov/CLabs/Test/obj/Debug/net5.0/Test.AssemblyInfo.cs
+/Users/ilgamnafikov/CLabs/Test/obj/Debug/net5.0/Test.csproj.CoreCompileInputs.cache
+/Users/ilgamnafikov/CLabs/Test/bin/Debug/net5.0/Test.deps.json
+/Users/ilgamnafikov/CLabs/Test/bin/Debug/net5.0/Test.runtimeconfig.json
+/Users/ilgamnafikov/CLabs/Test/bin/Debug/net5.0/Test.runtimeconfig.dev.json
+/Users/ilgamnafikov/CLabs/Test/bin/Debug/net5.0/Test.dll
+/Users/ilgamnafikov/CLabs/Test/bin/Debug/net5.0/ref/Test.dll
+/Users/ilgamnafikov/CLabs/Test/bin/Debug/net5.0/Test.pdb
+/Users/ilgamnafikov/CLabs/Test/obj/Debug/net5.0/Test.dll
+/Users/ilgamnafikov/CLabs/Test/obj/Debug/net5.0/ref/Test.dll
+/Users/ilgamnafikov/CLabs/Test/obj/Debug/net5.0/Test.pdb
+/Users/ilgamnafikov/CLabs/Test/obj/Debug/net5.0/Test.genruntimeconfig.cache

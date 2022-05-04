@@ -1,0 +1,15 @@
+/Users/ilgamnafikov/CLabs/Lab4/obj/Debug/net5.0/Lab4.csproj.AssemblyReference.cache
+/Users/ilgamnafikov/CLabs/Lab4/obj/Debug/net5.0/Lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilgamnafikov/CLabs/Lab4/obj/Debug/net5.0/Lab4.AssemblyInfoInputs.cache
+/Users/ilgamnafikov/CLabs/Lab4/obj/Debug/net5.0/Lab4.AssemblyInfo.cs
+/Users/ilgamnafikov/CLabs/Lab4/obj/Debug/net5.0/Lab4.csproj.CoreCompileInputs.cache
+/Users/ilgamnafikov/CLabs/Lab4/bin/Debug/net5.0/Lab4.deps.json
+/Users/ilgamnafikov/CLabs/Lab4/bin/Debug/net5.0/Lab4.runtimeconfig.json
+/Users/ilgamnafikov/CLabs/Lab4/bin/Debug/net5.0/Lab4.runtimeconfig.dev.json
+/Users/ilgamnafikov/CLabs/Lab4/bin/Debug/net5.0/Lab4.dll
+/Users/ilgamnafikov/CLabs/Lab4/bin/Debug/net5.0/ref/Lab4.dll
+/Users/ilgamnafikov/CLabs/Lab4/bin/Debug/net5.0/Lab4.pdb
+/Users/ilgamnafikov/CLabs/Lab4/obj/Debug/net5.0/Lab4.dll
+/Users/ilgamnafikov/CLabs/Lab4/obj/Debug/net5.0/ref/Lab4.dll
+/Users/ilgamnafikov/CLabs/Lab4/obj/Debug/net5.0/Lab4.pdb
+/Users/ilgamnafikov/CLabs/Lab4/obj/Debug/net5.0/Lab4.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bwXTE9id4RPYk7EDE+BZtBRUAiV0jlnAAZAfz9G0CZN/TXvMy7WYiJgs9OqLg4F08fQetLi2dN7BBHM0+YIrBg==",
+  "success": true,
+  "projectFilePath": "/Users/ilgamnafikov/CLabs/Test/Test.csproj",
+  "expectedPackageFiles": [
+    "/Users/ilgamnafikov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
